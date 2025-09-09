@@ -1,7 +1,7 @@
 # 👋 Hi, I'm rnzmiras  
 
 
-👨‍💻 BSIT Student | 🚀 Aspiring Start-Up Founder 
+👨‍💻 BSIT Student | 🚀 FronEnd Security
 
 ---
 
