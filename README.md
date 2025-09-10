@@ -1,7 +1,7 @@
 # 👋 Hi, I'm rnzmiras  
 
 
-👨‍💻 BSIT Student | 🚀 FronEnd Security
+👨‍💻 BSIT Student | 🚀 FrontEnd Security
 
 ---
 
